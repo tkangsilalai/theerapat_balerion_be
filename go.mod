@@ -1,4 +1,4 @@
-module github.com/tkangislalai/theerapat_balerion_be
+module github.com/tkangsilalai/theerapat_balerion_be
 
 go 1.26
 
