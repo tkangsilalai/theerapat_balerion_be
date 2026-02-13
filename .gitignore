@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Local env
+.env
+.DS_Store
